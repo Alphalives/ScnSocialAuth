@@ -18,7 +18,7 @@
         "php": ">=5.3.3",
         "zendframework/zendframework": "2.*",
         "zf-commons/zfc-base": "0.*",
-        "zf-commons/zfc-user": "dev-master",
+        "zf-commons/zfc-user": "1.*",
         "hybridauth/hybridauth": "dev-master"
     },
     "require-dev": {
